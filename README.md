@@ -1,11 +1,13 @@
 # 2023fall_Comm_Theory_TUNI
 Communication theory course
 
-## Weekly lectures take place on Thursdays 9-12
+## Lectures
+
+**Weekly lectures take place on Thursdays 9-12**
 
 Room SJ204 in Sähkötalo  
 
-**First lecture on Aug 31st, 2023 (week 35).**
+First lecture on Aug 31st, 2023 (week 35).
 
 Lecture notes available in PDF below (full notes in English, first half of notes also available in Finnish):
 
@@ -64,4 +66,20 @@ Link to join remote sessions in Zoom: https://tuni.zoom.us/j/63623626531
 
 Five different exercises during the fall, with three parallel groups from which you can choose freely. Exact schedule as follows:
 
-Matlab exercise groups and times
+**Matlab exercise groups and times**
+
+|Matlab           |Place |  Exercise 1 | Exercise 2| Exercise 3  | Exercise 4  |Exercise 5  |
+| :----           |---   | ---         | ---       |  ---        |---          |    ---     |
+|                 |      | week 38 | week 40  |  week 44   | week 46   | week 48  |
+| Group 1 (MA 14-16) | TC315 | 18.9.2023| 2.10.2023| 30.10.2023  | 13.11.2023 | 27.11.2023 |
+| Group 2 (TI 08-10) | ZOOM  | 19.9.2023|	3.10.2023|	31.10.2023  | 14.11.2023	| 28.11.2023 |
+| Group 3 (KE 10-12) | TC315 | 20.9.2023|	4.10.2023|	 1.11.2023	 | 15.11.2023 |	29.11.2023 |
+
+|Title | TIME | Zoom link |
+|---|---|---|
+|Exercises|TUE 08:00 - 10:00 |  https://tuni.zoom.us/j/62314757208  |
+|Matlab   |TUE 12:15 - 14:00 |  https://tuni.zoom.us/j/63623626531  |
+
+
+
+
