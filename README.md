@@ -71,9 +71,9 @@ Five different exercises during the fall, with three parallel groups from which 
 |Matlab           |Place |  Exercise 1 | Exercise 2| Exercise 3  | Exercise 4  |Exercise 5  |
 | :----           |---   | ---         | ---       |  ---        |---          |    ---     |
 |                 |      | week 38 | week 40  |  week 44   | week 46   | week 48  |
-| Group 1 (MA 14-16) | TC315 | 18.9.2023| 2.10.2023| 30.10.2023  | 13.11.2023 | 27.11.2023 |
-| Group 2 (TI 08-10) | ZOOM  | 19.9.2023|	3.10.2023|	31.10.2023  | 14.11.2023	| 28.11.2023 |
-| Group 3 (KE 10-12) | TC315 | 20.9.2023|	4.10.2023|	 1.11.2023	 | 15.11.2023 |	29.11.2023 |
+| Group 1 <br /> (MA 14-16) | TC315 | 18.9.2023| 2.10.2023| 30.10.2023  | 13.11.2023 | 27.11.2023 |
+| Group 2 <br /> (TI 08-10) | ZOOM  | 19.9.2023|	3.10.2023|	31.10.2023  | 14.11.2023	| 28.11.2023 |
+| Group 3 <br /> (KE 10-12) | TC315 | 20.9.2023|	4.10.2023|	 1.11.2023	 | 15.11.2023 |	29.11.2023 |
 
 |Title | TIME | Zoom link |
 |---|---|---|
