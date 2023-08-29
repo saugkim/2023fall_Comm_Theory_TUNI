@@ -10,7 +10,7 @@ Communication theory course
 |Title | TIME | Zoom link |
 |---|---|---|
 |Exercises|TUE 12:15 - 14:00 |  https://tuni.zoom.us/j/62314757208  |
-|Matlab   |TUE 08:15 - 10:00 |  https://tuni.zoom.us/j/63623626531  |
+|Matlab   |TUE 08:00 - 10:00 |  https://tuni.zoom.us/j/63623626531  |
 
 ## Lectures
 
