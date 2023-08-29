@@ -1,6 +1,6 @@
 # 2023fall_Comm_Theory_TUNI
-Communication theory course
 
+Communication theory course
 
 |Matlab         |  Exercise 1 | Exercise 2| Exercise 3  | Exercise 4  |Exercise 5  |
 |:----          | ---         | ---       |  ---        |---          |    ---     |
