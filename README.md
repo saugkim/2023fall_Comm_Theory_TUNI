@@ -1,6 +1,17 @@
 # 2023fall_Comm_Theory_TUNI
 Communication theory course
 
+
+|Matlab         |  Exercise 1 | Exercise 2| Exercise 3  | Exercise 4  |Exercise 5  |
+|:----          | ---         | ---       |  ---        |---          |    ---     |
+|               |     week 38 |  week 40  |   week 44   |  week 46    |   week 48  |
+| Group 2 <br /> (TI 08-10) | 19.9.2023|	3.10.2023|	31.10.2023  | 14.11.2023	| 28.11.2023 |
+
+|Title | TIME | Zoom link |
+|---|---|---|
+|Exercises|TUE 12:15 - 14:00 |  https://tuni.zoom.us/j/62314757208  |
+|Matlab   |TUE 08:15 - 10:00 |  https://tuni.zoom.us/j/63623626531  |
+
 ## Lectures
 
 **Weekly lectures take place on Thursdays 9-12**
