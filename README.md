@@ -10,7 +10,7 @@ Communication theory course
 
 |Matlab Exercises|  Exercise 1 | Exercise 2| Exercise 3  | Exercise 4  |Exercise 5  |
 |:----          | ---:         | ---:      |  ---:       |    ---:     |    ---:    |
-|   Group       |     week 38  |  week 40  |   week 44   |  week 46    |   week 48  |
+| Week          |     week 38  |  week 40  |   week 44   |  week 46    |   week 48  |
 | Group 2 <br /> (TI 08-10) | 19.9.2023|	3.10.2023|	31.10.2023  | 14.11.2023	| 28.11.2023 |
 
 
