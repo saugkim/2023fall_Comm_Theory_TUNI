@@ -1,6 +1,5 @@
 % COMM.SYS.300 COMMUNICATION THEORY
 % Matlab Exercise #2
-% Kim Yukyeong
 
 % Random variables and random processes
 
