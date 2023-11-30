@@ -1,6 +1,5 @@
 % COMM.SYS.300 COMMUNICATION THEORY
 % Matlab Exercise #3 (1.11.2023)
-% Kim Yukyeong
 
 % Digital transmission: Baseband PAM (Pulse Amplitude Modulation), Pulse‐shaping and Eye‐diagrams
 
