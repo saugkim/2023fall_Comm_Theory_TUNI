@@ -1,6 +1,5 @@
 % COMM.SYS.300 COMMUNICATION THEORY
 % Matlab Exercise #1
-% Yukyeong Kim
 
 %% 1 Sampling
 % copy of instruction
