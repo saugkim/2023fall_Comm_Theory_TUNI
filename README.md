@@ -94,6 +94,34 @@ Five different exercises during the fall, with three parallel groups from which 
 |Exercises|TUE 12:15 - 14:00 |  https://tuni.zoom.us/j/62314757208  |
 |Matlab   |TUE 08:15 - 10:00 |  https://tuni.zoom.us/j/63623626531  |
 
+```
+Lecture session 1
+
+short proof for Fourier series coefficients here
+short proof for Parseval's Theorem here
+
+Lecture session 2
+
+Fourier transform of continuous-time and discrete-time signals, side by side here
+short proof of time-delay theorem here
+short proof of one of  the properties of impulse functions here
+short proof through inverse Fourier transform that time-domain complex exponential has an impulsive spectrum here
+
+Lecture session 3
+
+continuous-time and discrete-time filtering/convolution, side by side here
+short sketch of the energy of the difference signal, showing how it depends on the integrated product of the two signals (here real-valued signals case) here
+short proof that cross-correlation can be calculated also through convolution here
+
+Lecture session 4
+
+short proofs related to selected statistical properties of filtered random signals here
+
+Lecture session 5
+
+simple sketch trying to illustrate how a multipath RF channel response can map to a non-symmetric fading response after receiver I/Q downconversion, calling for complex-valued equalization filter at baseband, here
+an example of amplitude and phase responses where the amplitude response is flat and phase response is linearly frequency dependent, within the signal bandwidth, but such that there is extra phase offset compared to phase response of a pure delay, here
+```
 
 
 
