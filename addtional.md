@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=IkovFv-w6JI&list=PLTgNKd4RxFTY_rhPBYyFJ-qVwMHNgebJe&index=15
+
+
 Using your soundcard for hands-on digital modulation with OFDM  
 
 https://dspillustrations.com/pages/pages/courses/course_OFDM/html/01%20-%20Setting%20Up%20The%20Audio%20Interface.html
